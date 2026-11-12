@@ -1,6 +1,6 @@
 {
-  "name": "Dungeon Pass Token",
+  "name": "Dungeon Pass",
   "symbol": "DPT",
-  "description": "Utility token for RPG Dungeon Game",
-  "image": "วางลิงก์_raw_ของ_logo.png_ตรงนี้"
+  "description": "Utility token for RPG Dungeon Game Dungeon Pass",
+  "image": "https://raw.githubusercontent.com/apisithasng/token/main/logo.png"
 }
